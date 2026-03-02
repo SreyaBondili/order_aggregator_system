@@ -1,0 +1,33 @@
+SUMMARY REPORT
+========================================
+
+P001 - Pen:
+ Order IDs: [101, 103]
+ Customers: ['Ravi', 'Amit']
+ Unit Price: Rs.0.1
+ Total Quantity: 8
+ Sales: Rs.30.5
+
+P002 - Book:
+ Order IDs: [102]
+ Customers: ['Sita']
+ Unit Price: Rs.120.0
+ Total Quantity: 2
+ Sales: Rs.240.0
+
+P002 - Notebook:
+ Order IDs: [203]
+ Customers: ['Charlie']
+ Unit Price: Rs.10.0
+ Total Quantity: 2
+ Sales: Rs.20.0
+
+P004 - Eraser:
+ Order IDs: [108]
+ Customers: ['Dev']
+ Unit Price: Rs.3.5
+ Total Quantity: 1
+ Sales: Rs.3.5
+
+Total Revenue: Rs.294.0
+========================================

@@ -1,0 +1,8 @@
+101,Ravi,P001,Pen,5,0.10
+102,Sita,P002,Book,2,120
+103,Amit,P001,Pen,3,10
+201,Rahul,P010,Marker,0,25
+202,Anita,P011,Stapler,3,-50
+203,Charlie,P002,Notebook,2,10
+108,Dev,P004,Eraser,1,3.5
+
